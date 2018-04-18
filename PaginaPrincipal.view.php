@@ -24,8 +24,7 @@
             <input type="search" name="search" placeholder="Buscar" class="animated-search-form">
             </div>
             <div class="w3-bar-item w3-left">
-            <a href="Registrar.php" class="w3-bar-item w3-button">Registrarse</a>
-            <a href="IniciarSesion.php" class="w3-bar-item w3-button w3-right">Iniciar Sesion</a>
+            <a href="cerrar.php">CerrarSesion</a>
             </div>
         </div>
         
